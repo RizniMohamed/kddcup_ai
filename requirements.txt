@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+matplotlib
+seaborn
+xgboost
+lightgbm
+tensorflow
+keras==3.0.0
+catboost

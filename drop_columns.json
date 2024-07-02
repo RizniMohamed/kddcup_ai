@@ -1,0 +1,10 @@
+[
+    "num_root",
+    "srv_serror_rate",
+    "srv_rerror_rate",
+    "dst_host_srv_serror_rate",
+    "dst_host_serror_rate",
+    "dst_host_srv_rerror_rate",
+    "dst_host_same_srv_rate",
+    "dst_host_rerror_rate"
+]
